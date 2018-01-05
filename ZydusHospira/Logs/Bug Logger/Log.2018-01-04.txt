@@ -1,0 +1,212 @@
+********************************** Login_LogInToApplication_ValidCredentials Started ***********************************
+In Browser, go to url: http://196.168.100.209:99/Account/Login
+Verify that whether login page loaded successfully
+Entered username as: 39247
+Entered password as: admin@123
+Clicked the submit button
+Verify whether user was able to login successfully
+********************************** Login_LogInToApplication_ValidCredentials Stopped ********************************** 
+
+********************************** Login_LogInToApplication_InValidPassword Started ***********************************
+In Browser, go to url: http://196.168.100.209:99/Account/Login
+Verify that whether login page loaded successfully
+Entered username as: 39247
+Entered password as: admin@1234
+Clicked the submit button
+Verify that user is not able to login
+********************************** Login_LogInToApplication_InValidPassword Stopped ********************************** 
+
+********************************** Login_LogInToApplication_InValidPassword Started ***********************************
+In Browser, go to url: http://196.168.100.209:99/Account/Login
+Verify that whether login page loaded successfully
+Entered username as: 39247
+Entered password as: admin@1234
+Clicked the submit button
+Verify that user is not able to login
+********************************** Login_LogInToApplication_InValidPassword Stopped ********************************** 
+
+********************************** Login_LogInToApplication_ValidCredentials Started ***********************************
+In Browser, go to url: http://196.168.100.209:99/Account/Login
+Verify that whether login page loaded successfully
+Entered username as: 39247
+Entered password as: admin@123
+Clicked the submit button
+Verify whether user was able to login successfully
+********************************** Login_LogInToApplication_ValidCredentials Stopped ********************************** 
+
+********************************** Login_LogInToApplication_InValidPassword Started ***********************************
+In Browser, go to url: http://196.168.100.209:99/Account/Login
+Verify that whether login page loaded successfully
+Entered username as: 39247
+Entered password as: admin@1234
+Clicked the submit button
+Verify that user is not able to login
+********************************** Login_LogInToApplication_InValidPassword Stopped ********************************** 
+
+********************************** Login_LogInToApplication_ValidCredentials Started ***********************************
+In Browser, go to url: http://196.168.100.209:99/Account/Login
+Verify that whether login page loaded successfully
+Entered username as: 39247
+Entered password as: admin@123
+Clicked the submit button
+Verify whether user was able to login successfully
+********************************** Login_LogInToApplication_ValidCredentials Stopped ********************************** 
+
+********************************** Login_LogInToApplication_ValidCredentials Started ***********************************
+In Browser, go to url: http://196.168.100.209:99/Account/Login
+Verify that whether login page loaded successfully
+Entered username as: 39247
+Screenshot Of Error D:\Ankit Mathur 12 1 2017\Ankit Mathur\Ankit Mathur\Automation Testing\LightPomFrameworkTutorial-SeleniumV2\ZydusHospira\Reports\2018.01.04_16.49_Test Report\FAIL_Login_LogInToApplication_ValidCredentials.jpg
+Test Failed ZydusHospira.LoginFunctionality
+********************************** Login_LogInToApplication_ValidCredentials Stopped ********************************** 
+
+********************************** LogInToApplication_InValidPassword Started ***********************************
+In Browser, go to url: http://196.168.100.209:99/Account/Login
+Verify that whether login page loaded successfully
+Entered username as: 39247
+Entered password as: admin@1234
+Clicked the submit button
+Verify that user is not able to login
+********************************** LogInToApplication_InValidPassword Stopped ********************************** 
+
+********************************** LogInToApplication_ValidCredentials Started ***********************************
+In Browser, go to url: http://196.168.100.209:99/Account/Login
+Verify that whether login page loaded successfully
+Entered username as: 39247
+Entered password as: admin@123
+Clicked the submit button
+Verify whether user was able to login successfully
+********************************** LogInToApplication_ValidCredentials Stopped ********************************** 
+
+********************************** SubmitForFirstApproval_ValidFormData Started ***********************************
+In Browser, go to url: http://196.168.100.209:99/Account/Login
+Verify that whether login page loaded successfully
+Entered username as: 39247
+Entered password as: admin@123
+Clicked the submit button
+Verify whether user was able to login successfully
+Clicked on New Site Inspection sub-menu
+Verify that user is taken to Site Inspection page
+********************************** SubmitForFirstApproval_ValidFormData Stopped ********************************** 
+
+********************************** SubmitForFirstApproval_ValidFormData Started ***********************************
+In Browser, go to url: http://196.168.100.209:99/Account/Login
+Verify that whether login page loaded successfully
+Entered username as: 39247
+Entered password as: admin@123
+Clicked the submit button
+Verify whether user was able to login successfully
+Clicked on New Site Inspection sub-menu
+Verify that user is taken to Site Inspection page
+********************************** SubmitForFirstApproval_ValidFormData Stopped ********************************** 
+
+********************************** LogInToApplication_InValidPassword Started ***********************************
+In Browser, go to url: http://196.168.100.209:99/Account/Login
+Verify that whether login page loaded successfully
+Entered username as: 39247
+Entered password as: admin@1234
+Clicked the submit button
+Verify that user is not able to login
+********************************** LogInToApplication_InValidPassword Stopped ********************************** 
+
+********************************** LogInToApplication_ValidCredentials Started ***********************************
+In Browser, go to url: http://196.168.100.209:99/Account/Login
+Verify that whether login page loaded successfully
+Entered username as: 39247
+Entered password as: admin@123
+Clicked the submit button
+Verify whether user was able to login successfully
+********************************** LogInToApplication_ValidCredentials Stopped ********************************** 
+
+********************************** SubmitForFirstApproval_ValidFormData Started ***********************************
+In Browser, go to url: http://196.168.100.209:99/Account/Login
+Verify that whether login page loaded successfully
+Entered username as: 39247
+Entered password as: admin@123
+Clicked the submit button
+Verify whether user was able to login successfully
+Clicked on New Site Inspection sub-menu
+Verify that user is taken to Site Inspection page
+********************************** SubmitForFirstApproval_ValidFormData Stopped ********************************** 
+
+********************************** LogInToApplication_InValidPassword Started ***********************************
+In Browser, go to url: http://196.168.100.209:99/Account/Login
+Verify that whether login page loaded successfully
+Entered username as: 39247
+Entered password as: admin@123
+Clicked the submit button
+Screenshot Of Error D:\Ankit Mathur 12 1 2017\Ankit Mathur\Ankit Mathur\Automation Testing\LightPomFrameworkTutorial-SeleniumV2\ZydusHospira\Reports\2018.01.04_17.57_Test Report\FAIL_LogInToApplication_InValidPassword.jpg
+Test Failed ZydusHospira.LoginFunctionality
+********************************** LogInToApplication_InValidPassword Stopped ********************************** 
+
+********************************** LogInToApplication_ValidCredentials Started ***********************************
+In Browser, go to url: http://196.168.100.209:99/Account/Login
+Verify that whether login page loaded successfully
+Entered username as: 39247
+Entered password as: admin@123
+Clicked the submit button
+Verify whether user was able to login successfully
+********************************** LogInToApplication_ValidCredentials Stopped ********************************** 
+
+********************************** SubmitForFirstApproval_ValidFormData Started ***********************************
+In Browser, go to url: http://196.168.100.209:99/Account/Login
+Verify that whether login page loaded successfully
+Entered username as: 39247
+Entered password as: admin@123
+Clicked the submit button
+Verify whether user was able to login successfully
+Clicked on New Site Inspection sub-menu
+Verify that user is taken to Site Inspection page
+********************************** SubmitForFirstApproval_ValidFormData Stopped ********************************** 
+
+********************************** LogInToApplication_InValidPassword Started ***********************************
+In Browser, go to url: http://196.168.100.209:99/Account/Login
+Verify that whether login page loaded successfully
+Entered username as: 39247
+Entered password as: admin@123
+Clicked the submit button
+Verify that user is not able to login
+Screenshot Of Error D:\Ankit Mathur 12 1 2017\Ankit Mathur\Ankit Mathur\Automation Testing\LightPomFrameworkTutorial-SeleniumV2\ZydusHospira\Reports\2018.01.04_18.02_Test Report\FAIL_LogInToApplication_InValidPassword.jpg
+Test Failed ZydusHospira.LoginFunctionality
+********************************** LogInToApplication_InValidPassword Stopped ********************************** 
+
+********************************** LogInToApplication_ValidCredentials Started ***********************************
+In Browser, go to url: http://196.168.100.209:99/Account/Login
+Verify that whether login page loaded successfully
+Entered username as: 39247
+Entered password as: admin@123
+Clicked the submit button
+Verify whether user was able to login successfully
+********************************** LogInToApplication_ValidCredentials Stopped ********************************** 
+
+********************************** LogInToApplication_ValidCredentials Started ***********************************
+In Browser, go to url: http://196.168.100.209:99/Account/Login
+Verify that whether login page loaded successfully
+Entered username as: 39247
+Entered password as: admin@123
+Clicked the submit button
+Verify whether user was able to login successfully
+*********************************** LogInToApplication_ValidCredentials Stopped ********************************** 
+
+********************************** SubmitForFirstApproval_ValidFormData Started ***********************************
+In Browser, go to url: http://196.168.100.209:99/Account/Login
+Verify that whether login page loaded successfully
+Entered username as: 39247
+Entered password as: admin@123
+Clicked the submit button
+Verify whether user was able to login successfully
+Clicked on New Site Inspection sub-menu
+Verify that user is taken to Site Inspection page
+*********************************** SubmitForFirstApproval_ValidFormData Stopped ********************************** 
+
+********************************** LogInToApplication_InValidPassword Started ***********************************
+In Browser, go to url: http://196.168.100.209:99/Account/Login
+Verify that whether login page loaded successfully
+Entered username as: 39247
+Entered password as: admin@123
+Clicked the submit button
+Verify that user is not able to login
+Screenshot Of Error D:\Ankit Mathur 12 1 2017\Ankit Mathur\Ankit Mathur\Automation Testing\LightPomFrameworkTutorial-SeleniumV2\ZydusHospira\Reports\2018.01.04_18.16_Test Report\FAIL_LogInToApplication_InValidPassword.jpg
+Test Failed ZydusHospira.Tests.LoginFunctionality
+*********************************** LogInToApplication_InValidPassword Stopped ********************************** 
+
